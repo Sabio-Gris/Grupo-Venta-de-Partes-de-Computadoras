@@ -1,6 +1,6 @@
 <%-- 
-    Document   : producto
-    Created on : 14-05-2018, 19:42:45
+    Document   : carro compras
+    Created on : 14-05-2018, 20:01:46
     Author     : Tomas Loaiza Solis
 --%>
 
@@ -11,7 +11,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-        <link rel="stylesheet" href="Estilos.css">
         <title>Pc Builder</title>
     </head>
     <body>
@@ -46,38 +45,5 @@
     </ul>
   </div>
 </nav>
-    <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-6 mb-4">
-
-            <img class="card-img-top" src="https://www.pcfactory.cl/public/foto/20448/1_500.jpg?t=1510011785" >
-        </div>
-        <div class="col-sm-12 col-md-12 col-lg-6">
-    
-        <ul class="list-group list-group-flush">
-            <li class="list-group-item">Gigabyte® Video AMD Radeon R5 230 1GB GDDR3</li>
-            <li class="list-group-item">$XXX.XXX</li>
-            <li class="list-group-item">Disponibilidad: 01</li>
-            <li class="list-group-item">Cantidad  <input type="number" placeholder="00" name="numCantidad" width="10"></li>
-            <li class="list-group-item"><a href="" class="btn btn-primary">agregar al carro de compras</a></li>
-        </ul>
-    </div>    
-    </div>
-    <div class="card"> 
-        <div class="card-header">
-            Caracteristicas
-        </div>
-        <div class="card-body">
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item"><h4>Descripcion</h4></li>
-                <li class="list-group-item">yolololotooksjakdasl da dsjalsjd alskdj laksjdl aks lask jdlaks laks djlaksdl yqw iqw hsand h pwiqh osd qjwpi adj pwu pqw d wsdnw sopidejuiuao</li>
-                
-            </ul>
-        </div>
-    </div>
-    <footer id="footer">
-        <div class="row">
-            Contactenos
-        </div>
-    </footer>
     </body>
 </html>
