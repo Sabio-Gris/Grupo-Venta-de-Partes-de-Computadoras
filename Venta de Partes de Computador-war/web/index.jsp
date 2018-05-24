@@ -14,43 +14,16 @@
     <title>PC Builder</title>
     <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-    <title>MI PC!</title>
+
   </head>
   <body>
      
-      <div class="header ">
-      <section id="cover">
-          <div id="cover-texto ">
-              <div class="container col-12 col-xl-12 mt-5 " >
-                  <div class="row text-center text-xs-center text-sm-left text-md-left" >
-                      <div clas="col-xs-12 col-sm-4 col-md-4">
-                          
-                          <h1 class="display-3 text-center"> Pagina Web con Bootstraps </h1>
-                          <p>Esta es una pagina web enfocada a todo los articulos relacionados unicamente con computadores</p>
-                          <form action="" class="form-inline justify-content-center ">
-                          <div class="form-group mx-2">
-                              <label class="sr-only ">Nombre</label>
-                              <input type="text" class="form-control form-control-lg" placeholder="Escriba su nombre">
-                          </div>
-                              <div class="form-group mx-2">
-                              <label class="sr-only">Email</label>
-                              <input type="text" class="form-control form-control-lg" placeholder="Escriba su correo">
-                          </div>
-                              <button type="button" class="btn btn-success btn-lg">Suscrbirse</button>
-                              </form>
-                      </div>
-                  </div>
-              </div>
-              
-          </div>
-          
-      </section>
-      </div>
+      
      
-      <nav class="navbar navbar-expand-lg  bg-dark navbar-toggleable-md fixed-top">
+      <nav class="navbar navbar-expand-lg  bg-dark navbar-toggleable-md ">
             <a class="navbar-brand" href="#">
                 <img src="C:\Users\casta\Documents\NetBeansProjects\Bootstraps4\web\img\notebooks.jpg" width="40" height="40" class="d-inline-block align-top" alt="">
-                Bootstrap
+                PC Builder
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
